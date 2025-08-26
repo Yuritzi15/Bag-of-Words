@@ -31,7 +31,7 @@ Haciendo uso de la biblioteca _Word Cloud_ se realizó una representación visua
 
 2. **Instala las dependencias**
  ```bash
- pip install -r requierements.txt
+ pip install -r requirements.txt
 ```
 
 3. **Ejecuta el notebook**
