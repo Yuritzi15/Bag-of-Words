@@ -1,13 +1,13 @@
 # 🎯 Representación de Requerimientos Funcionales y No Funcionales con Bag of Words 🎯
 
-El objetivo de este repositorio es compartir una implementación de la técnica de representación de texto clásica **Bag of Words** (BoW) que busca identificar palabras clave asociadas a **requerimientos funcionales** y **no funcionales** escritos en texto en inglés. 
+El objetivo de este repositorio es compartir una implementación de la técnica de representación de texto clásica **Bag of Words** (BoW) que busca identificar palabras clave asociadas a **requerimientos funcionales** y **no funcionales** escritos en texto en inglés para realizar clasificación. 
 
 ---
 
 
 ## 📊 Datos 📊
 
-El conjunto de datos utilizados son requerimientos recopilados de la web que han sido previamente etiquetados como funcionales y no funcionales.
+El conjunto de datos utilizado se conforma de 550 requerimientos recopilados de la web que han sido previamente etiquetados como funcionales y no funcionales.
 
 
 ## 🛠️ Preprocesamiento del texto 🛠️
