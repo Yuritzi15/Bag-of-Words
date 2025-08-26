@@ -16,7 +16,7 @@ El preprocesamiento del texto incluye:
 - Tokenización
 - Lowercasing 
 - Eliminación de Stopwords 
-- Stemming 
+- Lematización 
 
 ## 🔍 Análisis de palabras más representativas 🔍
 Haciendo uso de la biblioteca _Word Cloud_ se realizó una representación visual de las palabras asociadas a cada tipo de requerimiento de acuerdo con la frecuencia en la que aparecían en los vectores obtenidos mediante BoW 
