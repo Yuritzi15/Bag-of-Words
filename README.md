@@ -38,3 +38,6 @@ Haciendo uso de la biblioteca _Word Cloud_ se realizó una representación visua
  ```bash
  jupyter notebook BoW.ipyn
  ```
+
+## Ejecutar en colab
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yuritzi15/BoW-Proyecto/blob/main/BoW.ipynb)
