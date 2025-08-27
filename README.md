@@ -39,5 +39,5 @@ Haciendo uso de la biblioteca _Word Cloud_ se realizó una representación visua
  jupyter notebook BoW.ipyn
  ```
 
-## Ejecutar en colab
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yuritzi15/BoW-Proyecto/blob/main/BoW.ipynb)
+## 🚀 Ejecutar en colab 🚀
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Yuritzi15/Bag-of-Words/blob/main/BoW.ipynb)
